@@ -14,7 +14,8 @@ Our residential and multifamily real estate firm is looking to expand into diffe
 
 To understand our market better, we brought in sale prices (as well as other features of the sale) of houses from 2014 and 2015 in King County, Washington. We first wanted to become familiar with the data and see which variables impacted price the most.
 
-1. Cleaned data 
+### 1. Cleaned data 
+
 2. Created visualizations of variables that could have impact on price
 3. Preformed tests to see which variables may be statistically significant to price
 4. Engineered new variables that could help predict sales price of home.
