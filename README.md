@@ -38,3 +38,9 @@ We wanted to intially see the relationship between some of our independent varia
  <p align="center">
  <img width="560" height="336" src=Images/condition_bar.png>
  </p>
+
+Lastly, we wanted to see if zipcode has any affect on price (as we would expect it would). We created a bargraph of the average price of the top 5 zipcodes in King County. We wanted to see if there was a difference between each zip code. We found that there was a significant relationship between zipcode and price, and would expect this across most zipcodes in King County, WA.
+
+<p align="center">
+ <img width="560" height="336" src=Images/condition_bar.png>
+ </p>
