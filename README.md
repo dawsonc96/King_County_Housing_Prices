@@ -1,5 +1,7 @@
 # Prediciting the housing prices in King's County
 
+![alt text](https://www.visittheusa.com/sites/default/files/styles/16_9_1280x720/public/2017-03/VisitSeattle_HeroSpaceNeedle_2016_vFinal_Web72DPI.jpg?itok=eKQpcY3L)
+
 ## Overview
 
 The housing market is an especially important driver in our economy and is an alternative investment that many investors use to diversify their portfolios. Predicting the housing market is difficult as things like squarefootage, location, school district, distance to city, condition of home, etc. This project, we used regression analysis to to determine housing prices in King's County, Washington. We first used training data to explore feature building and feature inclusion, and then we built the final model using SciKit python library.
