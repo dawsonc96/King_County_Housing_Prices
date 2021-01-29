@@ -24,13 +24,13 @@ To understand our market better, we brought in sale prices (as well as other fea
 We started off by seeing which variables correlated with one another and specifically looked at which variables correlated with price.
 
 <p align="center">
- <img width="2000" height="1000" src=images/heatmap.png>
+ <img width="700" height="400" src=images/heatmap.png>
  </p>
 
 We wanted to intially see the relationship between some of our independent variables and price. We first looked at waterfront and its affect on price. We found that waterfront has a statistically significant affect on price.
 
 <p align="center">
- <img width="2000" height="1000" src=images/waterfront_price.png>
+ <img width="700" height="400" src=images/waterfront_price.png>
  </p>
  
  We were also interested in how zip code
