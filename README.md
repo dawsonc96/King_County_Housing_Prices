@@ -49,6 +49,12 @@ Visualizing the data we have and understanding the variables that impact price i
 
 We took in our variables (sqft of home, sqft of lot, views, etc.) and tested which are most important to predicting price, using a method called recursive feature elimination. Through this process, we created our final model. We then used our model to predict on a set of holdout data. Our predictions were close to the actual value of the homes sale price, giving us a good model to work off of as we try and predict future sales prices.
 
-## Summary
+![alt_text](https://s14.therealdeal.com/trd/up/2020/08/home-prices-705x439.jpg)
+
+# Summary
 
 Taking this approach to modeling and following the steps allowed us to evaluate and clean our data, identify outliers, identify key variables, create features, and ultimately find the best fit model for our data. Although there are many more variables that could be key factors in predicting the sales price of houses in King County, this is a great way to understand how to build a model and implement it!
+
+## Repository Structure
+
+Data sets can be found in our data folder. Images can be found in our image folder. All code can be found in our bakeoff_modeling file and our prections for our model can be found in modeling_predict.
