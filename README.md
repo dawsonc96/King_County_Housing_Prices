@@ -49,9 +49,9 @@ Visualizing the data we have and understanding the variables that impact price i
 
 We took in our variables (sqft of home, sqft of lot, views, etc.) and tested which are most important to predicting price, using a method called recursive feature elimination. Through this process, we created our final model. We then used our model to predict on a set of holdout data. Our predictions were close to the actual value of the homes sale price, giving us a good model to work off of as we try and predict future sales prices.
 
-<p align="center">
+
 ![alt_text](https://s14.therealdeal.com/trd/up/2020/08/home-prices-705x439.jpg)
-</p>
+
 
 ## Summary
 
