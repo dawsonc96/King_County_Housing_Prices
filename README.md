@@ -42,7 +42,7 @@ We wanted to intially see the relationship between some of our independent varia
 Lastly, we wanted to see if zipcode has any affect on price (as we would expect it would). We created a bargraph of the average price of the top 5 zipcodes in King County. We wanted to see if there was a difference between each zip code. We found that there was a significant relationship between zipcode and price, and would expect this across most zipcodes in King County, WA.
 
 <p align="center">
- <img width="560" height="336" src=Images/top5zipcodes_bar.png>
+ <img width="560" height="336" src=Images/zipcode.png>
  </p>
 
 Visualizing the data we have and understanding the variables that impact price is extremely important to creating our model. This segways us into feature selection, in which we decide what variables we believe affect price. Obviously, zipcode, waterfront, and condition have a huge impact on price. But what else does? 
