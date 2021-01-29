@@ -33,4 +33,8 @@ We wanted to intially see the relationship between some of our independent varia
  <img width="560" height="336" src=Images/waterfront_bar.png>
  </p>
  
- We were also interested in how zip code
+ We were also interested in how the condition of the house affects the overall price. We found that the condition, which is on a 1 to 5 scale (1 being the worst condition and 5 being the best) has a statistically significant impact on price.
+ 
+ <p align="center">
+ <img width="560" height="336" src=Images/condition_bar.png>
+ </p>
