@@ -14,11 +14,16 @@ Our residential and multifamily real estate firm is looking to expand into diffe
 
 To understand our market better, we brought in sale prices (as well as other features of the sale) of houses from 2014 and 2015 in King County, Washington. We first wanted to become familiar with the data and see which variables impacted price the most.
 
-### 1. Cleaned data 
-
+1. Cleaned data 
 2. Created visualizations of variables that could have impact on price
 3. Preformed tests to see which variables may be statistically significant to price
 4. Engineered new variables that could help predict sales price of home.
 5. Tested to see which variables were most important within our model.
 6. Created final model with identifies features and implemented it on final data set.
+
+## Visualizations
+
+We wanted to better understand housing prices with waterfront views in King County, Washington. We ran a test to see if having a waterfront view affects the sale price of a home, which we determined does.
+
+
 
