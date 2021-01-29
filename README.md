@@ -1,4 +1,4 @@
-# Prediciting the housing prices in King's County
+# Prediciting the housing prices in King County, WA
 
 ![alt_text](https://static1.mansionglobal.com/production/media/article-images/cd824443d93a08dc613bc61adb52e4ae/large_GettyImages-9166149421.jpg?width=1260&height=708)
 
