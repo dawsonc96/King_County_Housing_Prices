@@ -1,4 +1,4 @@
-#Prediciting the housing prices in King's County
+# Prediciting the housing prices in King's County
 
 ## Overview
 
