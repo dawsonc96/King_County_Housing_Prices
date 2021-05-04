@@ -47,7 +47,7 @@ Lastly, we wanted to see if zipcode has any affect on price (as we would expect 
 
 Visualizing the data we have and understanding the variables that impact price is extremely important to creating our model. This segways us into feature selection, in which we decide what variables we believe affect price. Obviously, zipcode, waterfront, and condition have a huge impact on price. But what else does? 
 
-We took in our variables (sqft of home, sqft of lot, views, etc.) and tested which are most important to predicting price, using a method called recursive feature elimination. Through this process, we created our final model. We then used our model to predict on a set of holdout data. Our predictions were close to the actual value of the homes sale price, giving us a good model to work off of as we try and predict future sales prices.
+We tooked in our variables (sqft of home, sqft of lot, views, etc.) and tested which are most important in predicting price, using a method called recursive feature elimination. Through this process, we created our final model. We then used our model to predict on a set of holdout data. Our predictions were close to the actual value of the homes sale price, giving us a good model to work off of as we try and predict future sales prices.
 
 <p align="center">
  <img width="560" height="336" src=Images/re.png>
